@@ -1,0 +1,10 @@
+localhost {
+    tls internal
+    handle {
+        reverse_proxy cms:8080
+    }
+    
+    # handle  {
+    #     reverse_proxy react:8080
+    # }
+}

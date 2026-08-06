@@ -1,0 +1,1 @@
+Host=database;Username=postgres;Password=postgres;Database=local_malgomajfvofcms_placeholder
